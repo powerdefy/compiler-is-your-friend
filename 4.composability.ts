@@ -69,4 +69,7 @@ Think. Compare and contrast the:
 Question:
 1) What did you learn from this problem? Why would we want to refactor the code to be
 like the Composable implementation?
+
+Answer:
+We can reuse the code not to rewrite all entire function as it's follow DRY principle https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 */
